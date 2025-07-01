@@ -45,7 +45,7 @@ img {
 
 /* ----------- HERO ----------- */
 .hero {
-  background-image: url(/img/tablero-electrico.png); /* Cambialo por tu imagen real */
+  background-image: url(../img/tablero-electrico.png); /* Cambialo por tu imagen real */
   background-size: cover;
   background-position: center;
   position: relative;
